@@ -1,0 +1,8 @@
+2025-07-29 07:59:45,416  [MainThread  ]  [INFO ]  Starting Extraction Engine...
+2025-07-29 07:59:59,140  [MainThread  ]  [INFO ]  Downloaded zip file : /home/prajwal/Data/Extraction/downloaded.zip
+2025-07-29 07:59:59,140  [MainThread  ]  [INFO ]  Extracting the zip file
+2025-07-29 08:00:01,530  [MainThread  ]  [INFO ]  Extracted files written to : /home/prajwal/Data/Extraction
+2025-07-29 08:00:01,530  [MainThread  ]  [INFO ]  Removing the zip file
+2025-07-29 08:00:11,413  [MainThread  ]  [INFO ]  Removing the original file
+2025-07-29 08:00:12,282  [MainThread  ]  [INFO ]  Extraction Sucessfully Complete!!!
+2025-07-29 08:00:12,282  [MainThread  ]  [INFO ]  Total time taken 0 hours, 0 minutes, 26 seconds

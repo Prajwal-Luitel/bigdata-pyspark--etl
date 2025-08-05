@@ -1,0 +1,7 @@
+2025-07-29 08:00:23,119  [MainThread  ]  [INFO ]  Transform stage started
+2025-07-29 08:00:46,833  [MainThread  ]  [INFO ]  Stage 1: Cleaned data saved
+2025-07-29 08:01:01,180  [MainThread  ]  [INFO ]  Stage 2: Master tabel saved
+2025-07-29 08:01:13,176  [MainThread  ]  [INFO ]  Stage 3: Query-optimized tables saved
+2025-07-29 08:01:13,177  [MainThread  ]  [INFO ]  Transfom stage completed
+2025-07-29 08:01:13,177  [MainThread  ]  [INFO ]  Total time taken 0 hours, 0 minutes, 50 seconds
+2025-07-29 08:01:13,821  [MainThread  ]  [INFO ]  Closing down clientserver connection
